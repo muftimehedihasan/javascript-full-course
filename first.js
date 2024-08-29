@@ -1,3 +1,2 @@
-fullname = "Mehedi Hasan";
-FullName = "Hasan Mehedi";
-console.log();
+const PI = 3.14
+console.log(PI);
