@@ -2,7 +2,7 @@ class Student {
     // Constarctor Method
     constructor(name, age) {
         this.name = name; // property
-        this.age = name; // property
+        this.age = age; // property
     }
 
     // Method
