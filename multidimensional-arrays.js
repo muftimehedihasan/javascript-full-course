@@ -16,3 +16,9 @@ for(let a = 0; a < array.length; a++){
     document.write("</tr>");
 }
 document.write("</table>");
+
+
+
+
+
+
